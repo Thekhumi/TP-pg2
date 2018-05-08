@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ventana-SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ventana-SFML.vcxproj -> C:\Users\Gaspar\Desktop\TP-pg2\TrabajoPractico-2\Debug\Ejercicio-1.exe
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).

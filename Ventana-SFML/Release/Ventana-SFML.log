@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Ventana-SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ventana.cpp
+  Generating code
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ventana-SFML.vcxproj -> C:\Users\Gaspar\Desktop\TP-pg2\TrabajoPractico-2\Release\Ejercicio-1.exe
